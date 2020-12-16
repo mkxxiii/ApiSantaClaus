@@ -1,0 +1,12 @@
+﻿Questao 2 - A documentacao DEVE ser a porta de entrada de um desenvolvedor para API. Desenvolvemos APIs para integrar sistemas.
+Do que adianta desenvolver um sistema para ser integrado e este sistema nao ter um "norte" para guiar os consumidores?
+Por isso, a documentacao e a parte mais importante de uma API, pois ela ensina o consumidor a utiliza-la da forma correta.
+
+Questao 3 - Ao desenvolver um bom padrao e uma boa arquitetura, o coddigo fica muito mais legivel e de facil manutencao.
+Codigos sem arquitetura bem definida ou sem boas praticas/bons padroes, sao extremamente confusos e de dificil manuntencao.
+E muito facil introduzir bugs e falhas em codigos mal-escritos devido a complexidade que se leva para entender o mesmo.
+
+Questao 4 - 
+Teste 1: Verificar se o resultado das validacoes condizem com o cenario correto.
+Teste 2: Testar se a controller retorna o objeto de resposta da forma pretendida, quando ocorrer um erro, deve retornar um erro detalhado
+quando for uma operacao bem sucedida, o objeto deve vir montado para tal.
